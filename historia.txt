@@ -1,5 +1,6 @@
 Esta es la historia de Samy
 
-Samy tiene 39 años y nació en Ciudad de Guatemala.
+Samy tiene 40 años y nació en Ciudad de Guatemala y
+ actualmente en Izabal.
 
 Hoy vamos a aprender a usar Git
